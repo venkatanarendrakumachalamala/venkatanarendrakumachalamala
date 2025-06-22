@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkatanarendrakumachalamala
+- 👋 Hi, I’m @venkatanarendrakumarchalamala
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning  phyton
 - 💞️ I’m looking to collaborate on  wipro
